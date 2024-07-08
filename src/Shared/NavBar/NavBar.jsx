@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import logo from '../../assets/assets/logo.svg'
 const NavBar = () => {
     return (
-        <div className="md:px-[150px] py-5 mb-5">
+        <div className="md:px-[150px] py-5 mb-10">
             <div className="navbar bg-base-100">
                 <a className="btn btn-ghost text-xl">
                     <img src={logo} alt="" />
@@ -28,13 +28,19 @@ const NavBar = () => {
                             <li><Link to="/">Home</Link ></li>
                             <li><Link to="/about">About</Link ></li>
                             <li><Link to="/services">Services</Link ></li>
-                            <li><Link to="/blog">Blog</Link ></li>
+                            <li><Link to="/order">Order</Link ></li>
                             <li><Link to="/contact">Contact</Link ></li>
                         </ul>
                     </div>
                 </div>
-                <div className="navbar-end">
-                    <a className="btn">Button</a>
+                <div className="navbar-end space-x-4">
+                    <Link to='/login' className="btn text-blue-500 border border-blue-500 font-semibold">Login</Link>
+                    <Link to='/signup' className="btn bg-blue-500 text-slate-100">SignUp</Link>
+                    <Link to='/profile' className="avatar">
+                        <div className="ring-primary ring-offset-base-100 w-20 rounded-full ">
+                            <img src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+                        </div>
+                    </Link>
                 </div>
             </div>        </div>
     );

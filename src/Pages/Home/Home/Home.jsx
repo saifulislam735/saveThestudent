@@ -8,10 +8,10 @@ import Testimonial from "../Testimonial/Testimonial";
 
 const Home = () => {
     return (
-        <div className="px-[150px]">
+        <div className=" space-y-24">
             <Banner></Banner>
             <AboutUs></AboutUs>
-            <Service></Service> 
+            <Service></Service>
             <OurLocation></OurLocation>
             <PopularProducts></PopularProducts>
             <Team></Team>

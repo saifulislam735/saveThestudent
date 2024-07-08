@@ -18,15 +18,15 @@ const Banner = () => {
                         <h2 className='text-6xl  font-bold'>Affordable <br /> Price For Car <br /> Servicing</h2>
                         <p>There are many variations of passages of  available, but <br /> the majority have suffered alteration in some form</p>
                         <div className='space-x-5'>
-                            <button className='bg-[#FF3811] px-[22px] py-[15px] rounded-lg'>Discover More</button>
+                            <button className='bg-[#FF3811] px-[22px] py-[15px] rounded-lg '>Discover More</button>
                             <button className='px-[22px] py-[15px] rounded-lg border border-[#FFF]'>Latest Project</button>
                         </div>
                     </div>
                 </div>
                 <div className="absolute right-10  bottom-10 flex -translate-y-1/2 transform  gap-5">
-                    <a href="#slide4" className="btn btn-circle text-2xl bg-[rgba(255, 255, 255, 0.20)]"><IoIosArrowRoundBack />
+                    <a href="#slide4" className="btn btn-circle text-2xl bg-[rgba(255, 255, 255, 0.20)] text-white"><IoIosArrowRoundBack />
                     </a>
-                    <a href="#slide2" className="btn btn-circle text-2xl bg-[#FF3811]"><IoIosArrowRoundForward />
+                    <a href="#slide2" className="btn btn-circle text-2xl bg-[#FF3811] text-white"><IoIosArrowRoundForward />
                     </a>
                 </div>
             </div>
@@ -45,9 +45,9 @@ const Banner = () => {
                     </div>
                 </div>
                 <div className="absolute right-10  bottom-10 flex -translate-y-1/2 transform  gap-5">
-                    <a href="#slide1" className="btn btn-circle text-2xl bg-[rgba(255, 255, 255, 0.20)]"><IoIosArrowRoundBack />
+                    <a href="#slide1" className="btn btn-circle text-2xl bg-[rgba(255, 255, 255, 0.20)] text-white"><IoIosArrowRoundBack />
                     </a>
-                    <a href="#slide3" className="btn btn-circle text-2xl bg-[#FF3811]"><IoIosArrowRoundForward />
+                    <a href="#slide3" className="btn btn-circle text-2xl bg-[#FF3811] text-white"><IoIosArrowRoundForward />
                     </a>
                 </div>
             </div>
@@ -66,9 +66,9 @@ const Banner = () => {
                     </div>
                 </div>
                 <div className="absolute right-10  bottom-10 flex -translate-y-1/2 transform  gap-5">
-                    <a href="#slide2" className="btn btn-circle text-2xl bg-[rgba(255, 255, 255, 0.20)]"><IoIosArrowRoundBack />
+                    <a href="#slide2" className="btn btn-circle text-2xl bg-[rgba(255, 255, 255, 0.20)] text-white"><IoIosArrowRoundBack />
                     </a>
-                    <a href="#slide4" className="btn btn-circle text-2xl bg-[#FF3811]"><IoIosArrowRoundForward />
+                    <a href="#slide4" className="btn btn-circle text-2xl bg-[#FF3811] text-white"><IoIosArrowRoundForward />
                     </a>
                 </div>
             </div>
@@ -87,9 +87,9 @@ const Banner = () => {
                     </div>
                 </div>
                 <div className="absolute right-10  bottom-10 flex -translate-y-1/2 transform  gap-5">
-                    <a href="#slide3" className="btn btn-circle text-2xl bg-[rgba(255, 255, 255, 0.20)]"><IoIosArrowRoundBack />
+                    <a href="#slide3" className="btn btn-circle text-2xl bg-[rgba(255, 255, 255, 0.20)] text-white"><IoIosArrowRoundBack />
                     </a>
-                    <a href="#slide1" className="btn btn-circle text-2xl bg-[#FF3811]"><IoIosArrowRoundForward />
+                    <a href="#slide1" className="btn btn-circle text-2xl bg-[#FF3811] text-white"><IoIosArrowRoundForward />
                     </a>
                 </div>
             </div>
