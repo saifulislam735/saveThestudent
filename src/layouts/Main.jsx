@@ -10,7 +10,7 @@ const Main = () => {
         <div>
             <ScrollToTop></ScrollToTop>
             <NavBar></NavBar>
-            <div className="px-[150px]">
+            <div className="px-6 lg:px-[150px]">
                 <Outlet></Outlet>
             </div>
             <Footer></Footer>
