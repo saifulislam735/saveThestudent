@@ -7,10 +7,10 @@ const Footer = () => {
 
                 <img src={logo} alt="" />
                 <p>
-                    Edwin Diaz is a software and web  <br />
-                    technologies engineer, a life coach  <br />
-                    trainer who is also a serial .<br />
-
+                    Save the student working for student   <br />
+                    movement in Bangladesh and highlighting   <br />
+                    their demand quota demand for reform and <br />
+                    students secuirty.<br />
                 </p>
             </aside>
             <nav>
@@ -20,8 +20,8 @@ const Footer = () => {
                 <a className="link link-hover">Contact</a>
             </nav>
             <nav>
-                <h6 className="footer-title">Company</h6>
-                <a className="link link-hover">Why Car Doctor?</a>
+                <h6 className="footer-title">Us</h6>
+                <a className="link link-hover">Help</a>
                 <a className="link link-hover">About</a>
 
             </nav>

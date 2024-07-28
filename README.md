@@ -7,3 +7,7 @@
 # firebsae
 
 # React Router
+
+# react-fast-marquee
+
+# sweetalert2.

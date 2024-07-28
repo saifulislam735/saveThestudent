@@ -2,7 +2,7 @@
 const ShowPost = () => {
     return (
         <div>
-            
+
         </div>
     );
 };

@@ -12,13 +12,13 @@ const NavBar = () => {
     };
 
     return (
-        <div className="md:px-[150px] py-5 mb-10">
+        <div className="md:px-[150px] py-5 ">
             <div className="navbar bg-base-100">
                 <div className="navbar-start">
-                    <a className="btn btn-ghost text-xl">
+                    <Link to={'/'} className="btn btn-ghost text-xl">
                         <img className='h-10 md:h-[60px]' src={logo} alt="" />
-                    </a>
-                    <div className="dropdown">
+                    </Link>
+                    <div className="dropdown z-50">
                         <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
                             <svg
                                 xmlns="http://www.w3.org/2000/svg"
@@ -47,7 +47,7 @@ const NavBar = () => {
                         <li><Link to="/">Home</Link></li>
                         <li><Link to="/post">Create Post</Link></li>
                         <li><Link to="/help">Emergency HelpLine</Link></li>
-                        <li><Link to="/about">About</Link></li>
+                        <li><Link to="/shoidInfo">ShoidInfo</Link></li>
                         <li><Link to="/contact">Contact</Link></li>
                     </ul>
                 </div>

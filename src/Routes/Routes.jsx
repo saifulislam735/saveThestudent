@@ -8,6 +8,7 @@ import SignUp from "../Pages/SignUp/SignUp";
 import Profile from "../Pages/Profile/Profile";
 
 import Post from "../Pages/Post/Post";
+import SohidInfo from "../Pages/SohidInfo/SohidInfo";
 
 
 const router = createBrowserRouter([
@@ -34,6 +35,9 @@ const router = createBrowserRouter([
             {
                 path: 'profile',
                 element: <Profile></Profile>
+            }, {
+                path: 'shoidInfo',
+                element: <SohidInfo></SohidInfo>,
             }
 
         ]
