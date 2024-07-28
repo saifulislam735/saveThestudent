@@ -9,6 +9,7 @@ import Profile from "../Pages/Profile/Profile";
 
 import Post from "../Pages/Post/Post";
 import SohidInfo from "../Pages/SohidInfo/SohidInfo";
+import PrivateRoutes from "./PrivateRoutes";
 
 
 const router = createBrowserRouter([
@@ -22,7 +23,7 @@ const router = createBrowserRouter([
             },
             {
                 path: 'post',
-                element: <Post></Post>
+                element: <PrivateRoutes><Post></Post></PrivateRoutes>
             },
             {
                 path: 'login',
@@ -35,10 +36,11 @@ const router = createBrowserRouter([
             {
                 path: 'profile',
                 element: <Profile></Profile>
-            }, {
+            },
+            {
                 path: 'shoidInfo',
                 element: <SohidInfo></SohidInfo>,
-            }
+            },
 
         ]
     },

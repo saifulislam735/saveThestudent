@@ -1,9 +1,14 @@
 import { useContext } from "react";
 import { AuthContext } from "../../Provider/AuthProvider";
 import Swal from "sweetalert2";
+import { useLocation, useNavigate } from "react-router-dom";
 
 const Login = () => {
     const { login } = useContext(AuthContext);
+    const navigate = useNavigate();
+    const location = useLocation();
+    const from = location.state?.from?.pathname || "/";
+
 
     const handleLogin = (event) => {
         event.preventDefault();
@@ -25,6 +30,7 @@ const Login = () => {
                     icon: "success"
                 });
                 form.reset();
+                navigate(from, { replace: true });
             })
             .catch((error) => {
                 const errorMessage = error.message;
