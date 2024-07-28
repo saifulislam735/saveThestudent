@@ -1,0 +1,182 @@
+[
+    {
+        "_id": "1",
+        "author_name": "Md. Shahidul Islam",
+        "author_image": "https://example.com/shahidul.jpg",
+        "post_time": "2023-02-20T14:30:00.000Z",
+        "post_content": "The quota system in Bangladesh is a major obstacle to social and economic mobility. It's time to reform it!",
+        "post_image": "https://example.com/quota-reform.jpg",
+        "post_like_count": 10
+    },
+    {
+        "_id": "2",
+        "author_name": "Rahul Ahmed",
+        "author_image": "https://example.com/rahul.jpg",
+        "post_time": "2023-02-19T10:00:00.000Z",
+        "post_content": "The quota system is a relic of the past. It's time to move forward and give everyone an equal chance.",
+        "post_image": "https://example.com/forward.jpg",
+        "post_like_count": 5
+    },
+    {
+        "_id": "3",
+        "author_name": "Fatema Akter",
+        "author_image": "https://example.com/fatema.jpg",
+        "post_time": "2023-02-18T16:00:00.000Z",
+        "post_content": "The quota system is a major source of corruption in Bangladesh. We need to reform it to reduce corruption.",
+        "post_image": "https://example.com/corruption.jpg",
+        "post_like_count": 8
+    },
+    {
+        "_id": "4",
+        "author_name": "Abdul Karim",
+        "author_image": "https://example.com/abdul.jpg",
+        "post_time": "2023-02-17T12:00:00.000Z",
+        "post_content": "The quota system is a major obstacle to economic growth in Bangladesh. We need to reform it to attract foreign investment.",
+        "post_image": "https://example.com/economic-growth.jpg",
+        "post_like_count": 12
+    },
+    {
+        "_id": "5",
+        "author_name": "Rumana Ahmed",
+        "author_image": "https://example.com/rumana.jpg",
+        "post_time": "2023-02-16T18:00:00.000Z",
+        "post_content": "The quota system is a major source of inequality in Bangladesh. We need to reform it to reduce inequality.",
+        "post_image": "https://example.com/inequality.jpg",
+        "post_like_count": 9
+    },
+    {
+        "_id": "6",
+        "author_name": "Shovon Ahmed",
+        "author_image": "https://example.com/shovon.jpg",
+        "post_time": "2023-02-15T14:00:00.000Z",
+        "post_content": "The quota system is a major obstacle to social mobility in Bangladesh. We need to reform it to give everyone an equal chance.",
+        "post_image": "https://example.com/social-mobility.jpg",
+        "post_like_count": 11
+    },
+    {
+        "_id": "7",
+        "author_name": "Jannatul Ferdous",
+        "author_image": "https://example.com/jannatul.jpg",
+        "post_time": "2023-02-14T10:00:00.000Z",
+        "post_content": "The quota system is a major source of corruption in Bangladesh. We need to reform it to reduce corruption.",
+        "post_image": "https://example.com/corruption.jpg",
+        "post_like_count": 7
+    },
+    {
+        "_id": "8",
+        "author_name": "Sajid Ahmed",
+        "author_image": "https://example.com/sajid.jpg",
+        "post_time": "2023-02-13T16:00:00.000Z",
+        "post_content": "The quota system is a major obstacle to economic growth in Bangladesh. We need to reform it to attract foreign investment.",
+        "post_image": "https://example.com/economic-growth.jpg",
+        "post_like_count": 10
+    },
+    {
+        "_id": "9",
+        "author_name": "Nusrat Jahan",
+        "author_image": "https://example.com/nusrat.jpg",
+        "post_time": "2023-02-12T12:00:00.000Z",
+        "post_content": "The quota system is a major source of inequality in Bangladesh. We need to reform it to reduce inequality.",
+        "post_image": "https://example.com/inequality.jpg",
+        "post_like_count": 8
+    },
+    {
+        "_id": "10",
+        "author_name": "Shahriar Ahmed",
+        "author_image": "https://example.com/shahriar.jpg",
+        "post_time": "2023-02-11T18:00:00.000Z",
+        "post_content": "The quota system is a major obstacle to social mobility in Bangladesh. We need to reform it to give everyone an equal chance.",
+        "post_image": "https://example.com/social-mobility.jpg",
+        "post_like_count": 9
+    },
+    {
+        "_id": "11",
+        "author_name": "Rabeya Khatun",
+        "author_image": "https://example.com/rabeya.jpg",
+        "post_time": "2023-02-10T14:00:00.000Z",
+        "post_content": "The quota system is a major source of corruption in Bangladesh. We need to reform it to reduce corruption.",
+        "post_image": "https://example.com/corruption.jpg",
+        "post_like_count": 6
+    },
+    {
+        "_id": "12",
+        "author_name": "Shahidul Islam",
+        "author_image": "https://example.com/shahidul.jpg",
+        "post_time": "2023-02-09T10:00:00.000Z",
+        "post_content": "The quota system is a major obstacle to economic growth in Bangladesh. We need to reform it to attract foreign investment.",
+        "post_image": "https://example.com/economic-growth.jpg",
+        "post_like_count": 11
+    },
+    {
+        "_id": "13",
+        "author_name": "Fatema Akter",
+        "author_image": "https://example.com/fatema.jpg",
+        "post_time": "2023-02-08T16:00:00.000Z",
+        "post_content": "The quota system is a major source of inequality in Bangladesh. We need to reform it to reduce inequality.",
+        "post_image": "https://example.com/inequality.jpg",
+        "post_like_count": 8
+    },
+    {
+        "_id": "14",
+        "author_name": "Abdul Karim",
+        "author_image": "https://example.com/abdul.jpg",
+        "post_time": "2023-02-07T12:00:00.000Z",
+        "post_content": "The quota system is a major obstacle to social mobility in Bangladesh. We need to reform it to give everyone an equal chance.",
+        "post_image": "https://example.com/social-mobility.jpg",
+        "post_like_count": 10
+    },
+    {
+        "_id": "15",
+        "author_name": "Rahul Ahmed",
+        "author_image": "https://example.com/rahul.jpg",
+        "post_time": "2023-02-06T18:00:00.000Z",
+        "post_content": "The quota system is a major source of corruption in Bangladesh. We need to reform it to reduce corruption.",
+        "post_image": "https://example.com/corruption.jpg",
+        "post_like_count": 7
+    },
+    {
+        "_id": "16",
+        "author_name": "Shovon Ahmed",
+        "author_image": "https://example.com/shovon.jpg",
+        "post_time": "2023-02-05T14:00:00.000Z",
+        "post_content": "The quota system is a major obstacle to economic growth in Bangladesh. We need to reform it to attract foreign investment.",
+        "post_image": "https://example.com/economic-growth.jpg",
+        "post_like_count": 11
+    },
+    {
+        "_id": "17",
+        "author_name": "Jannatul Ferdous",
+        "author_image": "https://example.com/jannatul.jpg",
+        "post_time": "2023-02-04T10:00:00.000Z",
+        "post_content": "The quota system is a major source of inequality in Bangladesh. We need to reform it to reduce inequality.",
+        "post_image": "https://example.com/inequality.jpg",
+        "post_like_count": 8
+    },
+    {
+        "_id": "18",
+        "author_name": "Sajid Ahmed",
+        "author_image": "https://example.com/sajid.jpg",
+        "post_time": "2023-02-03T16:00:00.000Z",
+        "post_content": "The quota system is a major obstacle to social mobility in Bangladesh. We need to reform it to give everyone an equal chance.",
+        "post_image": "https://example.com/social-mobility.jpg",
+        "post_like_count": 9
+    },
+    {
+        "_id": "19",
+        "author_name": "Nusrat Jahan",
+        "author_image": "https://example.com/nusrat.jpg",
+        "post_time": "2023-02-02T12:00:00.000Z",
+        "post_content": "The quota system is a major source of corruption in Bangladesh. We need to reform it to reduce corruption.",
+        "post_image": "https://example.com/corruption.jpg",
+        "post_like_count": 6
+    },
+    {
+        "_id": "20",
+        "author_name": "Shahriar Ahmed",
+        "author_image": "https://example.com/shahriar.jpg",
+        "post_time": "2023-02-01T18:00:00.000Z",
+        "post_content": "The quota system is a major obstacle to economic growth in Bangladesh. We need to reform it to attract foreign investment.",
+        "post_image": "https://example.com/economic-growth.jpg",
+        "post_like_count": 10
+    }
+]

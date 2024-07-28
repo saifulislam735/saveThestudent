@@ -22,8 +22,7 @@ const SohidInfo = () => {
             }
         }
         fetchShoidInfo();
-    }, []); // Empty dependency array to run the effect only once
-
+    }, []); 
 
     // console.log(sohids)
     return (

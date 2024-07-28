@@ -51,7 +51,7 @@ const LeftNav = () => {
                     <div className="flex gap-2 w-8/12">
                         {
                             sohids.map((sohid, index) =>
-                                <Sohid key={index} sohid={sohid}></Sohid>
+                                <Sohid key={index} sohid={sohid} n={index + 1}></Sohid>
                             )
                         }
                     </div>
